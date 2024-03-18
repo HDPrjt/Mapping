@@ -847,4 +847,28 @@ List_mobs = {
 [16033] = {name_5 = "❪5✰❫ ʜɪᴠᴀ ᴀ²", name_6 = "❪6✰❫ ʜɪᴠᴀ ᴀ²", IDAP = 16033},
 [16034] = {name_5 = "❪5✰❫ ᴘʀᴏᴍ ᴀ²", name_6 = "❪6✰❫ ᴘʀᴏᴍ ᴀ²", IDAP = 16034},
 [16035] = {name_5 = "❪5✰❫ ᴛʜʀᴀɪɴ ᴀ²", name_6 = "❪6✰❫ ᴛʜʀᴀɪɴ ᴀ²", IDAP = 16035}
+
+[26711] = {name_5 = "❪5✰❫ Aaaaa WT", name_6 = "❪6✰❫ Aaaaa WT", IDAP = 26711},
+[26712] = {name_5 = "❪5✰❫ Aaaaa Fire", name_6 = "❪6✰❫ Aaaaa Fire", IDAP = 26712},
+[26713] = {name_5 = "❪5✰❫ Aaaaa Wind", name_6 = "❪6✰❫ Aaaaa Wind", IDAP = 26713},
+[26714] = {name_5 = "❪5✰❫ Aaaaa Light", name_6 = "❪6✰❫ Aaaaa Light", IDAP = 26714},
+[26715] = {name_5 = "❪5✰❫ Aaaaa Dark", name_6 = "❪6✰❫ Aaaaa Dark", IDAP = 26715},
+
+[26811] = {name_5 = "❪5✰❫ Bbbbb WT", name_6 = "❪6✰❫ Bbbbb WT", IDAP = 26811},
+[26812] = {name_5 = "❪5✰❫ Bbbbb Fire", name_6 = "❪6✰❫ Bbbbb Fire", IDAP = 26812},
+[26813] = {name_5 = "❪5✰❫ Bbbbb Wind", name_6 = "❪6✰❫ Bbbbb Wind", IDAP = 26813},
+[26814] = {name_5 = "❪5✰❫ Bbbbb Light", name_6 = "❪6✰❫ Bbbbb Light", IDAP = 26814},
+[26815] = {name_5 = "❪5✰❫ Bbbbb Dark", name_6 = "❪6✰❫ Bbbbb Dark", IDAP = 26815},
+
+[26911] = {name_5 = "❪5✰❫ Ccccc WT", name_6 = "❪6✰❫ Ccccc WT", IDAP = 26911},
+[26912] = {name_5 = "❪5✰❫ Ccccc Fire", name_6 = "❪6✰❫ Ccccc Fire", IDAP = 26912},
+[26913] = {name_5 = "❪5✰❫ Ccccc Wind", name_6 = "❪6✰❫ Ccccc Wind", IDAP = 26913},
+[26914] = {name_5 = "❪5✰❫ Ccccc Light", name_6 = "❪6✰❫ Ccccc Light", IDAP = 26914},
+[26915] = {name_5 = "❪5✰❫ Ccccc Dark", name_6 = "❪6✰❫ Ccccc Dark", IDAP = 26915},
+
+[27011] = {name_5 = "❪5✰❫ Ddddd WT", name_6 = "❪6✰❫ Ddddd WT", IDAP = 27011},
+[27012] = {name_5 = "❪5✰❫ Ddddd Fire", name_6 = "❪6✰❫ Ddddd Fire", IDAP = 27012},
+[27013] = {name_5 = "❪5✰❫ Ddddd Wind", name_6 = "❪6✰❫ Ddddd Wind", IDAP = 27013},
+[27014] = {name_5 = "❪5✰❫ Ddddd Light", name_6 = "❪6✰❫ Ddddd Light", IDAP = 27014},
+[27015] = {name_5 = "❪5✰❫ Ddddd Dark", name_6 = "❪6✰❫ Ddddd Dark", IDAP = 27015},
 }
